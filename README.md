@@ -1,1 +1,1 @@
-This is openEMR project with shamsi or Jalali calendar in both any language. In fact I replaced the jalali calendar
+This is openEMR project with Shamsi or Jalali calendar. I replaced the Jalali calendar with the default calendar.
